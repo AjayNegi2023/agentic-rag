@@ -84,7 +84,8 @@ and answer generation.
 
 The following diagram is generated from the compiled LangGraph workflow:
 
-![Agentic RAG LangGraph Workflow](docs/agent-workflow.png)
+<img width="414" height="564" alt="agent_workflow" src="https://github.com/user-attachments/assets/4069536f-3074-495a-a121-2f8ba7cb49d3" />
+
 
 ### Workflow Components
 
